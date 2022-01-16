@@ -1,6 +1,6 @@
 [package]
 name = "running-in-container"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2021"
 authors = ["Mihai Galos <mihaigalos@gmail.com>"]
 description = "A library exporting one function to determine if application is running in a container or not."
